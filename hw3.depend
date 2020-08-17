@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1596723508 source:c:\users\hassam\desktop\hw3\hw3\heap.cpp
+	"heap.h"
+
+1596483046 c:\users\hassam\desktop\hw3\hw3\heap.h
+	<iostream>
+
+1596556862 source:c:\users\hassam\desktop\hw3\hw3\heapsort.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"heap.h"
+
